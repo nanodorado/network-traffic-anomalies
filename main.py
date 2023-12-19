@@ -1,4 +1,3 @@
-# main.py
 from data_loader import load_data
 from anomaly_detection import detect_anomalies
 from config import SUSPICIOUS_IPS
