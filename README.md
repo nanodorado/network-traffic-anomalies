@@ -1,4 +1,4 @@
-# Advanced Network Anomaly Detection
+# Network Anomaly Detection
 
 This Python script uses the Isolation Forest algorithm to detect anomalies in network traffic data, potentially indicative of security threats. It has been enhanced with temporal analysis, event correlation, and verification against a database of suspicious IP addresses.
 
